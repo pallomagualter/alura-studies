@@ -1,8 +1,10 @@
-import Button from "./components/button";
+import Form from "./components/Form";
 
 function App() {
   return (
-    <Button />
+    <div className="App">
+      <Form />
+    </div>
   );
 }
 
